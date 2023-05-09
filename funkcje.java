@@ -1,3 +1,5 @@
+/** aSzymon - gtihub */
+
 package Cwiczenie;
 
 public class funkcje {
